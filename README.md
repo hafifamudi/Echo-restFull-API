@@ -10,7 +10,7 @@
   go get -u github.com/golang/dep/cmd/dep
   
   ```
-  Or you can use go mod for sync the dependencies
+  *Or you can use go mod for sync the dependencies*
   ```
   go mod vendor
   ```
