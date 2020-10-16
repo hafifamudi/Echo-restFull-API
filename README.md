@@ -3,7 +3,7 @@
 ###### This is very simple RestFull-API with Echo Framework that builded using Go Programming language
 
 
-##First Step to Install
+## First Step to Install
   
   *you need to install dep for dependency manager:*
   ```
@@ -14,7 +14,7 @@
   ```
   go mod vendor
   ```
-##Second Step
+## Second Step
   *just run the main.go file:*
   ```
   go run main.go
